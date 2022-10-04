@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    /* 10px = 1.0rem */
+    /* font-size: 62.5%; */
+}
+
+* {
+    /* outline: 1px solid red; */
+}
